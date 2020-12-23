@@ -1,0 +1,7 @@
+C:\Users\Danil\Desktop\C++\Алгоритмы\Грокаем алгоритмы\Структуры данных\3 Граф(Нахождение кратчайшего пути (Алгоритм Дрейкстры))\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Danil\Desktop\C++\Алгоритмы\Грокаем алгоритмы\Структуры данных\3 Граф(Нахождение кратчайшего пути (Алгоритм Дрейкстры))\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Danil\Desktop\C++\Алгоритмы\Грокаем алгоритмы\Структуры данных\3 Граф(Нахождение кратчайшего пути (Алгоритм Дрейкстры))\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Danil\Desktop\C++\Алгоритмы\Грокаем алгоритмы\Структуры данных\3 Граф(Нахождение кратчайшего пути (Алгоритм Дрейкстры))\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\C++\Алгоритмы\Грокаем алгоритмы\Структуры данных\3 Граф(Нахождение кратчайшего пути (Алгоритм Дрейкстры))\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\C++\Алгоритмы\Грокаем алгоритмы\Структуры данных\3 Граф(Нахождение кратчайшего пути (Алгоритм Дрейкстры))\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Danil\Desktop\C++\Алгоритмы\Грокаем алгоритмы\Структуры данных\3 Граф(Нахождение кратчайшего пути (Алгоритм Дрейкстры))\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
